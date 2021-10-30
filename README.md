@@ -1,5 +1,5 @@
 # lua-bigNumer for redis
-Enter this commands in the base directory:
+Enter this commands in the redis-module directory:
 ```
 make clean
 make
@@ -7,5 +7,5 @@ make
 You can test it then with:
 ```
 redis-cli 
- module load /path/module.so
+module load /path/module.so
 ```
