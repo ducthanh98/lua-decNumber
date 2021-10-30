@@ -1,4 +1,4 @@
-# lua-bigNumer for redis
+# lua-decNumer for redis
 Enter this commands in the redis-module directory:
 ```
 make clean
